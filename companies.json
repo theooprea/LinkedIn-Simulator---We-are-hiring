@@ -1,0 +1,105 @@
+{
+    "companies": [
+        {
+            "name": "Google",
+            "manager": "Sundar Pichai",
+            "departments": [
+                {
+                    "department_name": "IT",
+                    "employees": ["Rolland Lyla"],
+                    "jobs": [
+                        {
+                            "name": "Software Developer Engineer",
+                            "locuri": 1,
+                            "salary": 10000,
+                            "gradYearLower": 2002,
+                            "gradYearUpper": 2020,
+                            "xpMin": 2,
+                            "xpMax": 6,
+                            "gpaMin": 8,
+                            "gpaMax": null
+                        },
+                        {
+                            "name": "Software Developer Engineer Intern",
+                            "locuri": 1,
+                            "salary": 5000,
+                            "gradYearLower": null,
+                            "gradYearUpper": null,
+                            "xpMin": 0,
+                            "xpMax": 2,
+                            "gpaMin": 9,
+                            "gpaMax": null
+                        }
+                    ]
+                },
+                {
+                    "department_name": "Management",
+                    "employees": ["Steward Goodwin"],
+                    "jobs": []
+                },
+                {
+                    "department_name": "Marketing",
+                    "employees": ["Molly Rylie", "Bryson Reenie"],
+                    "jobs": []
+                },
+                {
+                    "department_name": "Finance",
+                    "employees": ["Morley Denise"],
+                    "jobs": []
+                }
+            ],
+            "recruiters": ["Jonie Phillip", "Janine Woody"]
+        },
+        {
+            "name": "Amazon",
+            "manager": "Jeff Bezos",
+            "departments": [
+                {
+                    "department_name": "IT",
+                    "employees": ["Harmony Lorinda"],
+                    "jobs": [
+                        {
+                            "name": "Software Developer Engineer",
+                            "locuri": 1,
+                            "salary": 12000,
+                            "gradYearLower": 2014,
+                            "gradYearUpper": 2020,
+                            "xpMin": 1,
+                            "xpMax": null,
+                            "gpaMin": 9,
+                            "gpaMax": null
+                        },
+                        {
+                            "name": "Software Developer Engineer Intern",
+                            "locuri": 1,
+                            "salary": 6000,
+                            "gradYearLower": null,
+                            "gradYearUpper": null,
+                            "xpMin": 0,
+                            "xpMax": 2,
+                            "gpaMin": 9.35,
+                            "gpaMax": null
+                        }
+                    ]
+                },
+                {
+                    "department_name": "Management",
+                    "employees": ["Shana Addy"],
+                    "jobs": []
+                },
+                {
+                    "department_name": "Marketing",
+                    "employees": ["Leyla Stacy", "Bethney Kiara"],
+                    "jobs": []
+                },
+                {
+                    "department_name": "Finance",
+                    "employees": ["Jarred Egbert"],
+                    "jobs": []
+                }
+            ],
+            "recruiters": ["Darrell Lillie", "Damian Bodhi"]
+        }
+    ]
+    
+}

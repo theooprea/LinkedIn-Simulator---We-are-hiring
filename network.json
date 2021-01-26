@@ -1,0 +1,52 @@
+{
+    "connections": [
+        {
+            "source": "U1",
+            "destination": "U2"
+        },
+        {
+            "source": "U1",
+            "destination": "E3"
+        },
+        {
+            "source": "U2",
+            "destination": "R1"
+        },
+        {
+            "source": "U2",
+            "destination": "E7"
+        },
+        {
+            "source": "U3",
+            "destination": "U4"
+        },
+        {
+            "source": "U3",
+            "destination": "E3"
+        },
+        {
+            "source": "U4",
+            "destination": "E10"
+        },
+        {
+            "source": "E2",
+            "destination": "E10"
+        },
+        {
+            "source": "E2",
+            "destination": "R3"
+        },
+        {
+            "source": "E3",
+            "destination": "E6"
+        },
+        {
+            "source": "E3",
+            "destination": "R2"
+        },
+        {
+            "source": "E6",
+            "destination": "R4"
+        }
+    ]
+}
